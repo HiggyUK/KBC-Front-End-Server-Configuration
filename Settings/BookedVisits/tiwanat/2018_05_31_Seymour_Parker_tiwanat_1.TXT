@@ -1,0 +1,7 @@
+Surname|Seymour
+Firstname|Parker
+Company|Ricoh
+Host|tiwanat
+DateOfVisit|2018/05/31
+CarParking|Yes
+CarReg|12345

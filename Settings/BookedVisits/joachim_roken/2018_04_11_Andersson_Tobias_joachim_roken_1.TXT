@@ -1,0 +1,7 @@
+Surname|Andersson
+Firstname|Tobias
+Company|Toshiba
+Host|joachim_roken
+DateOfVisit|2018/04/11
+CarParking|Yes
+CarReg|LSA012

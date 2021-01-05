@@ -1,0 +1,15 @@
+Time Sheet ID: 0000164
+Time Sheet For: gturner  submitted on 21-06-2018
+
+Week Commencing:
+27-06-2018
+
+Day                     Start     Finish    Hours
+Monday                  8am     4pm     08:00
+Tuesday                 8am     4pm     08:00
+Wednesday               8am     4pm     08:00
+Thursday                8am     4pm     08:00
+Friday                  8am     4pm     08:00
+
+Total Hours: 40:00
+

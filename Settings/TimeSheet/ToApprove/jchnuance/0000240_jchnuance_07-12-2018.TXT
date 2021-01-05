@@ -1,0 +1,15 @@
+Time Sheet ID: 0000240
+Time Sheet For: jchnuance  submitted on 10-12-2018
+
+Week Commencing:
+07-12-2018
+
+Day                     Start     Finish    Hours
+Monday                  09:00     17:00     08:00
+Tuesday                 09:00     16:00     07:00
+Wednesday               09:00     17:00     08:00
+Thursday                09:00     17:00     08:00
+Friday                  09:00     17:00     08:00
+
+Total Hours: 39:00
+

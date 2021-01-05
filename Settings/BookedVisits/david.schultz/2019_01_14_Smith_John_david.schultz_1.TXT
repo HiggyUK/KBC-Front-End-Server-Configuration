@@ -1,0 +1,7 @@
+Surname|Smith
+Firstname|John
+Company|Abc
+Host|david.schultz
+DateOfVisit|2019/01/14
+CarParking|No
+CarReg|

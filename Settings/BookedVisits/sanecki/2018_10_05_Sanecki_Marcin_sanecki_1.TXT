@@ -1,0 +1,7 @@
+Surname|Sanecki
+Firstname|Marcin
+Company|Nuance
+Host|sanecki
+DateOfVisit|2018/10/05
+CarParking|Yes
+CarReg|Fish’s djd

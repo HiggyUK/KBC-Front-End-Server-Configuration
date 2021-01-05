@@ -1,0 +1,15 @@
+Time Sheet ID: 0000148
+Time Sheet For: terry  submitted on 29-05-2018
+
+Week Commencing:
+01-06-2018
+
+Day                     Start     Finish    Hours
+Monday                  08:00     14:00     06:00
+Tuesday                 08:00     14:00     06:00
+Wednesday               08:00     14:00     06:00
+Thursday                08:00     14:00     06:00
+Friday                  08:00     14:00     06:00
+
+Total Hours: 30:00
+

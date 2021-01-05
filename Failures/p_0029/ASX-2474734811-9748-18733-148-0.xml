@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="212A66076CDC74659CE260AA97935117E720B1D88A2BFCF357193F09A0B5F5E7772FCE312800C9CA19C461D1C57416FC">
+	<Header Version="2" DateCreated="2018-07-17" TimeCreated="17:39:21" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3735411718-26004-17579-162-88">
+		<KnowledgeObject ObjID="1786693394-25816-18339-129-123">
+			<KnowledgeFields>
+				<Field Name="DocClass" Value="Not Found"/>
+				<Field Name="UserName" Value="mstavenas"/>
+				<Field Name="UserEmail" Value="mstavenas@csa.canon.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\mstavenas"/>
+				<Field Name="FormName" Value="Classification Example"/>
+				<Field Name="JobID" Value="1786693394-25816-18339-129-123"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="RequestType" Value="Email"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

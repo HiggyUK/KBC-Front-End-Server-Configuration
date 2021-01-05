@@ -1,0 +1,15 @@
+Time Sheet ID: 0000285
+Time Sheet For: michael.gowland  submitted on 05-03-2020
+
+Week Commencing:
+04-03-2020
+
+Day                     Start     Finish    Hours
+Monday                  8:00     17:00     09:00
+Tuesday                 8:00     17:00     09:00
+Wednesday               8:00     17:00     09:00
+Thursday                8:00     17:00     09:00
+Friday                  8:00     17:00     09:00
+
+Total Hours: 45:00
+

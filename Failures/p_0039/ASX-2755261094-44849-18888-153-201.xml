@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="A0A651A0B59172DC7A89473941E29E6799BB473F5E6BABBE1D4AE03B644C06F156F12F8302AFEA55C0F6D5D894BE13E1">
+	<Header Version="2" DateCreated="2020-04-23" TimeCreated="08:59:34" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3490738918-7238-19941-147-126">
+		<KnowledgeObject ObjID="2032630920-31969-18604-170-145">
+			<KnowledgeFields>
+				<Field Name="Section" Value="Sales\Information Request"/>
+				<Field Name="Products" Value="ds_kofax-controlsuite_en_091819;ds_kofax-autostore_en_112119;ds_kofax-business-connect_en_112119;ds_kofax-output-manager_en_071119;ds_kofax-quickcapturepro_en_112119;ds_kofax-webcapture_en_112119;ds_kofax-equitrac_en_071119;ds_kofax-controlsuite-foundations-for-smb_en_081419;ds_kofax-controlsuite-output-management_en_062019;ds_kofax-equitrac-follow-you-printing_en_061419;eb_controlsuite-solving-todays-challenges-6-17-19;ds_gdpr_compliance_en_072919;eCopy Enterprise Datasheet;ds_kofax-power-pdf-advanced_en_101419;ds_kofax-safecom_en_072419;ds_kofax-safecom-pay_en_090519;ds_kofax-safecom-pull-print_en_090519"/>
+				<Field Name="Consent" Value="1"/>
+				<Field Name="MobileNumber" Value="1"/>
+				<Field Name="PhoneNumber" Value="1"/>
+				<Field Name="EmailAddress" Value="John.campbellhiggens@kofax.com"/>
+				<Field Name="Company" Value="Kofax"/>
+				<Field Name="JobTitle" Value="Bdm"/>
+				<Field Name="Fullname" Value="John"/>
+				<Field Name="JobID" Value="2032630920-31969-18604-170-145"/>
+				<Field Name="FormName" Value="Information Request"/>
+				<Field Name="UserEmail" Value="john.campbellhiggens@kofax.com"/>
+				<Field Name="UserHomeFolder" Value="\\US01VMBCMD01\HOME\HiggyUK"/>
+				<Field Name="UserName" Value="HiggyUK"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,7 @@
+Surname|Bingley
+Firstname|Rob
+Company|Ricoh
+Host|rbingley
+DateOfVisit|2020/03/10
+CarParking|Yes
+CarReg|Htu123

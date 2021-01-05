@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="C4740B6C6FC79530FB80F013D4888A6878E9661BBC68AAA0DC27E710F8B626A240A67DDF7D54828CF4CAC81601ED919C">
+	<Header Version="2" DateCreated="2018-12-04" TimeCreated="15:27:45" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="329440444-34527-17457-172-109">
+		<KnowledgeObject ObjID="768502799-34772-16444-182-86">
+			<KnowledgeFields>
+				<Field Name="DocClass" Value="Not Found"/>
+				<Field Name="UserName" Value="rsolometo"/>
+				<Field Name="UserEmail" Value="rsolometo@kmbs.konicaminolta.us"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Rsolometo"/>
+				<Field Name="FormName" Value="Classification Example"/>
+				<Field Name="JobID" Value="768502799-34772-16444-182-86"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="RequestType" Value="Folder"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

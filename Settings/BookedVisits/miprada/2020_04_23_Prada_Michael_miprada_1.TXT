@@ -1,0 +1,7 @@
+Surname|Prada
+Firstname|Michael
+Company|G2M colombia
+Host|miprada
+DateOfVisit|2020/04/23
+CarParking|No
+CarReg|

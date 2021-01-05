@@ -1,0 +1,15 @@
+Time Sheet ID: 0000310
+Time Sheet For: HiggyUK  submitted on 27-04-2020
+
+Week Commencing:
+24-04-2020
+
+Day                     Start     Finish    Hours
+Monday                  09:00     17:00     08:00
+Tuesday                 09:00     17:00     08:00
+Wednesday               09:00     17:00     08:00
+Thursday                09:00     17:00     08:00
+Friday                  09:00     13:00     04:00
+
+Total Hours: 36:00
+

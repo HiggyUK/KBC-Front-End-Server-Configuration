@@ -1,0 +1,15 @@
+Time Sheet ID: 0000255
+Time Sheet For: nicoengels  submitted on 05-02-2019
+
+Week Commencing:
+08-02-2019
+
+Day                     Start     Finish    Hours
+Monday                  8:00     17:00     09:00
+Tuesday                 8:00     17:00     09:00
+Wednesday               8:00     17:00     09:00
+Thursday                8:00     17:00     09:00
+Friday                  8:00     17:00     09:00
+
+Total Hours: 45:00
+

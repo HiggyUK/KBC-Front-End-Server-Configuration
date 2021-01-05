@@ -1,0 +1,7 @@
+Surname|smith
+Firstname|john
+Company|ABC
+Host|gjohal
+DateOfVisit|2018/05/14
+CarParking|Yes
+CarReg|M12345

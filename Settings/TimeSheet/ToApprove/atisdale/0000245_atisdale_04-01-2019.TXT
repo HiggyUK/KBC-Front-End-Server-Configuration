@@ -1,0 +1,15 @@
+Time Sheet ID: 0000245
+Time Sheet For: atisdale  submitted on 04-01-2019
+
+Week Commencing:
+04-01-2019
+
+Day                     Start     Finish    Hours
+Monday                  08:30AM     5:00PM     08:30
+Tuesday                 08:30AM     5:00PM     08:30
+Wednesday               08:30AM     5:00PM     08:30
+Thursday                08:30AM     5:00PM     08:30
+Friday                  08:30AM     5:00PM     08:30
+
+Total Hours: 41:90
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="CA006F483217D08551E4CA5E710EC219A8F1C48A28C12324FD59B6FC0392EE511CA765377A762406591DF6F97D360E95">
+	<Header Version="2" DateCreated="2019-01-28" TimeCreated="16:11:07" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3241287588-48964-16551-189-211">
+		<KnowledgeObject ObjID="1434627705-63634-16498-174-164">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="434ffgh"/>
+				<Field Name="Visiting" Value="10001     "/>
+				<Field Name="Company" Value="Test"/>
+				<Field Name="Forename" Value="Nick"/>
+				<Field Name="Surname" Value="Breime"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="hardyn hardyn"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="hardy.n@icloud.com"/>
+				<Field Name="UserName" Value="hardyn"/>
+				<Field Name="JobID" Value="1434627705-63634-16498-174-164"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="34€"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

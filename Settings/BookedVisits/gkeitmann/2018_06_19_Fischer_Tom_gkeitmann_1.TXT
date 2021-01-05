@@ -1,0 +1,7 @@
+Surname|Fischer
+Firstname|Tom
+Company|Fischer GmbH
+Host|gkeitmann
+DateOfVisit|2018/06/19
+CarParking|Yes
+CarReg|B GU 567

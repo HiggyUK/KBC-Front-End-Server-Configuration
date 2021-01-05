@@ -1,0 +1,15 @@
+Time Sheet ID: 0000206
+Time Sheet For: delst  submitted on 14-09-2018
+
+Week Commencing:
+14-09-2018
+
+Day                     Start     Finish    Hours
+Monday                  7:50     16:35     08:45
+Tuesday                 7:50     16:35     08:45
+Wednesday               7:50     16:35     08:45
+Thursday                7:50     16:35     08:45
+Friday                  7:50     16:35     08:45
+
+Total Hours: 41:65
+

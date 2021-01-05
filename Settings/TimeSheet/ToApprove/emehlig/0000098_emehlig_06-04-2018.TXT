@@ -1,0 +1,15 @@
+Time Sheet ID: 0000098
+Time Sheet For: emehlig  submitted on 06-04-2018
+
+Week Commencing:
+06-04-2018
+
+Day                     Start     Finish    Hours
+Monday                  8:00     5:00     40
+Tuesday                 8:00     5:00     40
+Wednesday               3:00     6:00     03:00
+Thursday                8:00     5:00     40
+Friday                  8:00     5:00     40
+
+Total Hours: 03:00
+

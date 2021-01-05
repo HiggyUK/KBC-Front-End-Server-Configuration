@@ -1,0 +1,15 @@
+Time Sheet ID: 0000161
+Time Sheet For: jim  submitted on 15-06-2018
+
+Week Commencing:
+15-06-2018
+
+Day                     Start     Finish    Hours
+Monday                  8am     4pm     08:00
+Tuesday                 8am     4pm     08:00
+Wednesday               8am     4pm     08:00
+Thursday                8am     4pm     08:00
+Friday                  8am     4pm     08:00
+
+Total Hours: 40:00
+

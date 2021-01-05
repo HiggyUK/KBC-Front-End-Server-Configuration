@@ -1,0 +1,7 @@
+Surname|Fields
+Firstname|John
+Company|Nuance
+Host|jdfields
+DateOfVisit|2018/04/27
+CarParking|Yes
+CarReg|Abc123

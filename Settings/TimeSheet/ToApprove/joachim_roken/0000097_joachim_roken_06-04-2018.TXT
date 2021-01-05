@@ -1,0 +1,15 @@
+Time Sheet ID: 0000097
+Time Sheet For: joachim_roken  submitted on 06-04-2018
+
+Week Commencing:
+06-04-2018
+
+Day                     Start     Finish    Hours
+Monday                  08:00     17:00     09:00
+Tuesday                 08:00     17:00     09:00
+Wednesday               08:00     17:00     09:00
+Thursday                08:00     17:00     09:00
+Friday                  08:00     17:00     09:00
+
+Total Hours: 45:00
+

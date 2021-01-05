@@ -1,0 +1,7 @@
+Surname|Willis
+Firstname|Bruce
+Company|Police
+Host|jnicastro
+DateOfVisit|2018/05/26
+CarParking|No
+CarReg|

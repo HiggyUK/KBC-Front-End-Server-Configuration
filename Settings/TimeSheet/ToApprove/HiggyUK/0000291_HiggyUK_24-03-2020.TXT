@@ -1,0 +1,15 @@
+Time Sheet ID: 0000291
+Time Sheet For: HiggyUK  submitted on 24-03-2020
+
+Week Commencing:
+24-03-2020
+
+Day                     Start     Finish    Hours
+Monday                  11:00     17:00     09:00
+Tuesday                 08:00     17:00     09:00
+Wednesday               08:00     17:00     09:00
+Thursday                08:00     17:00     09:00
+Friday                  08:00     17:00     09:00
+
+Total Hours: 45:00
+

@@ -1,0 +1,15 @@
+Time Sheet ID: 0000215
+Time Sheet For: ghesse  submitted on 04-10-2018
+
+Week Commencing:
+04-10-2018
+
+Day                     Start     Finish    Hours
+Monday                  9:00     10:00     01:00
+Tuesday                 9:00     10:00     01:00
+Wednesday               9:00     10:00     01:00
+Thursday                9:00     10:00     01:00
+Friday                  9:00     10:00     01:00
+
+Total Hours: 05:00
+

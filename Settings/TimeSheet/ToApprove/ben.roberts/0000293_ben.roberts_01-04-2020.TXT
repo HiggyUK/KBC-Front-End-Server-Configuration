@@ -1,0 +1,15 @@
+Time Sheet ID: 0000293
+Time Sheet For: ben.roberts  submitted on 01-04-2020
+
+Week Commencing:
+01-04-2020
+
+Day                     Start     Finish    Hours
+Monday                  09:00     17:00     08:00
+Tuesday                 09:00     17:00     08:00
+Wednesday               09:00     17:00     08:00
+Thursday                09:00     17:00     08:00
+Friday                  09:00     17:00     08:00
+
+Total Hours: 40:00
+

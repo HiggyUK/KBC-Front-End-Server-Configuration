@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="68977B03BFEA5F547736DAE688F99A37FBDD71FC17B75CB6526BD0D228393E5DE945C1AD58788919F97C62AFDBFB5EE4">
+	<Header Version="2" DateCreated="2018-12-20" TimeCreated="13:17:41" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="4239216337-5484-20228-168-81">
+		<KnowledgeObject ObjID="1624850466-44630-19085-145-235">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value=""/>
+				<Field Name="Visiting" Value="10002     "/>
+				<Field Name="Company" Value="IT Technologies"/>
+				<Field Name="Forename" Value="Joey"/>
+				<Field Name="Surname" Value="Lucci"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="Rsolometo Rsolometo"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="rsolometo@kmbs.konicaminolta.us"/>
+				<Field Name="UserName" Value="rsolometo"/>
+				<Field Name="JobID" Value="1624850466-44630-19085-145-235"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="2018_12_20_Lucci"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

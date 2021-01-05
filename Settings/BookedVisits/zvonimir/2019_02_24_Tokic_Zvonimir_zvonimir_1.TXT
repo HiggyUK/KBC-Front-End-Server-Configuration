@@ -1,0 +1,7 @@
+Surname|Tokic
+Firstname|Zvonimir
+Company|Konica Minolta
+Host|zvonimir
+DateOfVisit|2019/02/24
+CarParking|Yes
+CarReg|

@@ -1,0 +1,15 @@
+Time Sheet ID: 0000270
+Time Sheet For: nuance-erik  submitted on 16-04-2019
+
+Week Commencing:
+16-04-2019
+
+Day                     Start     Finish    Hours
+Monday                  9 am     5 Pm     08:00
+Tuesday                 9 am     5 Pm     08:00
+Wednesday               11 am     5 pm     06:00
+Thursday                9 am     5 Pm     08:00
+Friday                  9 am     5 Pm     08:00
+
+Total Hours: 38:00
+

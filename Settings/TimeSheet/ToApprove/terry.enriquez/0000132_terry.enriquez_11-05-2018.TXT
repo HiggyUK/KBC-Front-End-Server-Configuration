@@ -1,0 +1,15 @@
+Time Sheet ID: 0000132
+Time Sheet For: terry.enriquez  submitted on 14-05-2018
+
+Week Commencing:
+11-05-2018
+
+Day                     Start     Finish    Hours
+Monday                  8:00     14:00     06:00
+Tuesday                 8:00     14:00     06:00
+Wednesday               8:00     17:00     09:00
+Thursday                8:00     14:00     06:00
+Friday                  8:00     14:00     06:00
+
+Total Hours: 33:00
+

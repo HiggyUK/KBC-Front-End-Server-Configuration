@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="07BD1A76F56A6E3E27006200E50587469543408AB6DA9ADC106ED1B3FCF34C1D0915BF5D22053382959CB0DFCA777A39">
+	<Header Version="2" DateCreated="2018-10-16" TimeCreated="18:44:01" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3439793930-22478-18404-145-238">
+		<KnowledgeObject ObjID="3881381670-14344-17058-171-210">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="123456"/>
+				<Field Name="Visiting" Value="10006     "/>
+				<Field Name="Company" Value="Nuance"/>
+				<Field Name="Forename" Value="Joe"/>
+				<Field Name="Surname" Value="Smith"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="Govy Gonzalez - Govyg"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="Govelio.gonzalez@nuance.com"/>
+				<Field Name="UserName" Value="govyg"/>
+				<Field Name="JobID" Value="3881381670-14344-17058-171-210"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="12345"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,15 @@
+Time Sheet ID: 0000252
+Time Sheet For: jesaaved1  submitted on 31-01-2019
+
+Week Commencing:
+31-01-2019
+
+Day                     Start     Finish    Hours
+Monday                  8am     4pm     08:00
+Tuesday                 8am     4pm     08:00
+Wednesday               8am     4pm     08:00
+Thursday                8am     4pm     08:00
+Friday                  8am     4pm     08:00
+
+Total Hours: 40:00
+

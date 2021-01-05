@@ -1,0 +1,7 @@
+Surname|Surname
+Firstname|First name
+Company|Ricoh
+Host|richardricoh
+DateOfVisit|2018/05/29
+CarParking|Yes
+CarReg|No1

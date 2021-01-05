@@ -1,0 +1,15 @@
+Time Sheet ID: 0000288
+Time Sheet For: rbingley  submitted on 10-03-2020
+
+Week Commencing:
+10-03-2020
+
+Day                     Start     Finish    Hours
+Monday                  8:00 am     8:00 pm     12:00
+Tuesday                 8:00 am     8:00 pm     12:00
+Wednesday               8:00 am     8:00 pm     12:00
+Thursday                8:00 am     8:00 pm     12:00
+Friday                  8:00 am     8:00 pm     12:00
+
+Total Hours: 60:00
+

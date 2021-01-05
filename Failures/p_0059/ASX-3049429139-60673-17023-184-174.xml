@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="FBA6FD767B64B720FCAC12E66BBEC50A7ABE8FB559EA29B98A833F07337AD15F2AD696E50BF35305517112330F09FEAA">
+	<Header Version="2" DateCreated="2019-06-19" TimeCreated="16:24:47" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="4018885247-8195-17638-172-223">
+		<KnowledgeObject ObjID="3074678591-64208-18555-183-136">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="Gml591"/>
+				<Field Name="Visiting" Value="10007     "/>
+				<Field Name="Company" Value="MIGHe"/>
+				<Field Name="Forename" Value="Nick"/>
+				<Field Name="Surname" Value="Cliff keen 1992"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="~WCC::User,%displayName%~"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="Nparillo@ssdvermont.com"/>
+				<Field Name="UserName" Value="Xodice"/>
+				<Field Name="JobID" Value="3074678591-64208-18555-183-136"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="&lt;script&gt;(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:&quot;26061666&quot;};o.q=w[u],w[u]=new UET(o),w[u].push(&quot;pageLoad&quot;)},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&amp;&amp;s!==&quot;loaded&quot;&amp;&amp;"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

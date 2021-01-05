@@ -1,0 +1,15 @@
+Time Sheet ID: 0000234
+Time Sheet For: arosneck  submitted on 30-11-2018
+
+Week Commencing:
+30-11-2018
+
+Day                     Start     Finish    Hours
+Monday                  8AM     4PM     08:00
+Tuesday                 8AM     4PM     08:00
+Wednesday               8AM     4PM     08:00
+Thursday                8AM     4PM     08:00
+Friday                  8AM     4PM     08:00
+
+Total Hours: 40:00
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="256C990799ABE7E4EDB5BE88148A31DAE1CEC8214567A974ADB59DD46378C75EB2F5331355BAB56D0B95ABDF2A969786">
+	<Header Version="2" DateCreated="2019-01-28" TimeCreated="15:27:01" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3324967560-12450-17979-180-184">
+		<KnowledgeObject ObjID="4107614146-10735-18343-183-123">
+			<KnowledgeFields>
+				<Field Name="DocClass" Value="Not Found"/>
+				<Field Name="UserName" Value="hardyn"/>
+				<Field Name="UserEmail" Value="hardy.n@icloud.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\hardyn"/>
+				<Field Name="FormName" Value="Classification Example"/>
+				<Field Name="JobID" Value="4107614146-10735-18343-183-123"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="RequestType" Value="Folder"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

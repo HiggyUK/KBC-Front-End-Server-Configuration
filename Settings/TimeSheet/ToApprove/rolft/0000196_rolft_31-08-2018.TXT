@@ -1,0 +1,15 @@
+Time Sheet ID: 0000196
+Time Sheet For: rolft  submitted on 30-08-2018
+
+Week Commencing:
+31-08-2018
+
+Day                     Start     Finish    Hours
+Monday                  8:00     16:30     08:30
+Tuesday                 8:00     16:30     08:30
+Wednesday               8:00     16:30     08:30
+Thursday                8:00     17:00     09:00
+Friday                  8:00     16:30     08:30
+
+Total Hours: 42:60
+

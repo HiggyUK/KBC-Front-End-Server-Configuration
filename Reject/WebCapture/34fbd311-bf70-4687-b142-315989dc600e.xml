@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientJobInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JobId>34fbd311-bf70-4687-b142-315989dc600e</JobId>
+  <FormId>d755c335-ff20-415e-a834-6792eed484d4</FormId>
+  <User>
+    <Email>tsk@edh-tech.dk</Email>
+    <UserName>tsk</UserName>
+    <Domain>nuancemobile.demo</Domain>
+    <Groups>
+      <string>NUANCEMOBILE\Domain Users</string>
+      <string>Everyone</string>
+      <string>BUILTIN\Users</string>
+      <string>BUILTIN\Pre-Windows 2000 Compatible Access</string>
+      <string>NT AUTHORITY\Authenticated Users</string>
+      <string>NT AUTHORITY\This Organization</string>
+      <string>Service asserted identity</string>
+    </Groups>
+    <UserAttributes>
+      <Metadata>
+        <Name>displayName</Name>
+        <Data>tsk tsk</Data>
+      </Metadata>
+      <Metadata>
+        <Name>homeDirectory</Name>
+        <Data>\\NUAN-MOBAD01\HOME\tsk</Data>
+      </Metadata>
+    </UserAttributes>
+  </User>
+  <ClientAddress>10.48.0.12</ClientAddress>
+  <ServerAddress>::1</ServerAddress>
+  <ServerHostName>localhost</ServerHostName>
+  <FieldData>
+    <Metadata>
+      <Name>TimeSheet</Name>
+      <Data>Administrator-Fred-6_27_2016</Data>
+    </Metadata>
+    <Metadata>
+      <Name>TimeSheetDetails</Name>
+      <Data>C:\Nuance\CompleteDemo\Settings\TimeSheet\ToApprove\tsk\Administrator-Fred-6_27_2016.txt</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Action</Name>
+      <Data>p_0009</Data>
+    </Metadata>
+    <Metadata>
+      <Name>RejectReason</Name>
+      <Data />
+    </Metadata>
+    <Metadata>
+      <Name>Signed</Name>
+      <Data>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</Data>
+    </Metadata>
+  </FieldData>
+  <LocalFilePaths />
+</ClientJobInfo>

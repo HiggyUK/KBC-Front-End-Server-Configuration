@@ -1,0 +1,7 @@
+Surname|smith
+Firstname|joe
+Company|ricoh
+Host|gjohal
+DateOfVisit|2019/06/12
+CarParking|No
+CarReg|

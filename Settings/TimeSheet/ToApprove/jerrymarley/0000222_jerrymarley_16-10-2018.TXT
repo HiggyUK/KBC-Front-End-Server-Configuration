@@ -1,0 +1,15 @@
+Time Sheet ID: 0000222
+Time Sheet For: jerrymarley  submitted on 16-10-2018
+
+Week Commencing:
+16-10-2018
+
+Day                     Start     Finish    Hours
+Monday                  8:00     17:00     09:00
+Tuesday                 8:00     17:00     09:00
+Wednesday               8:00     17:00     09:00
+Thursday                8:00     17:00     09:00
+Friday                  8:00     17:00     09:00
+
+Total Hours: 45:00
+

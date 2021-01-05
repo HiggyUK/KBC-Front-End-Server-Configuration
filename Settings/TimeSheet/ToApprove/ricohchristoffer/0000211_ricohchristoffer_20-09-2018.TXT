@@ -1,0 +1,15 @@
+Time Sheet ID: 0000211
+Time Sheet For: ricohchristoffer  submitted on 21-09-2018
+
+Week Commencing:
+20-09-2018
+
+Day                     Start     Finish    Hours
+Monday                  08:00     17:00     09:00
+Tuesday                 08:00     17:00     09:00
+Wednesday               08:00     17:00     09:00
+Thursday                08:00     17:00     09:00
+Friday                  08:00     17:00     09:00
+
+Total Hours: 45:00
+

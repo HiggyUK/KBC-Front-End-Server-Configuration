@@ -1,0 +1,7 @@
+Surname|Schulze
+Firstname|Michael
+Company|Abc
+Host|ms@upload24.de
+DateOfVisit|2018/09/08
+CarParking|No
+CarReg|

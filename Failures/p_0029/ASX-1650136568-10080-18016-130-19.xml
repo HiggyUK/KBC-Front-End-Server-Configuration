@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="FEB492E359C3577130645811C015B6413BC363302B438DB2E51BBCF0F8C29FD5D53933B80C7E576C4BD82AAD96C6FCEA">
+	<Header Version="2" DateCreated="2018-09-22" TimeCreated="21:31:03" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2681956427-30116-19933-188-209">
+		<KnowledgeObject ObjID="234166731-55215-16515-178-34">
+			<KnowledgeFields>
+				<Field Name="DocClass" Value="Not Found"/>
+				<Field Name="UserName" Value="tgaede"/>
+				<Field Name="UserEmail" Value="t.gaede@cvu-berlin.de"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\TGaede"/>
+				<Field Name="FormName" Value="Classification Example"/>
+				<Field Name="JobID" Value="234166731-55215-16515-178-34"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="RequestType" Value="Email"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

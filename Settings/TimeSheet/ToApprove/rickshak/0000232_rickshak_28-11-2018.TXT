@@ -1,0 +1,15 @@
+Time Sheet ID: 0000232
+Time Sheet For: rickshak  submitted on 28-11-2018
+
+Week Commencing:
+28-11-2018
+
+Day                     Start     Finish    Hours
+Monday                  8:00     12:00     04:00
+Tuesday                 8:00     12:00     04:00
+Wednesday               8:00     12:00     04:00
+Thursday                8:00     12:00     04:00
+Friday                  8:00     12:00     04:00
+
+Total Hours: 20:00
+

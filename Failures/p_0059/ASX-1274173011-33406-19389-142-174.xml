@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="ED14835BF4B7BE05B1F256F28FF10579E0750ADBD0E2350F0ABF6DEEEC1A31B967D00990119E1908476748927A869BB3">
+	<Header Version="2" DateCreated="2020-10-01" TimeCreated="10:19:31" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3522905403-49930-19705-188-217">
+		<KnowledgeObject ObjID="402354050-32245-16986-190-51">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="M5933AN"/>
+				<Field Name="Visiting" Value="200001"/>
+				<Field Name="Company" Value="M hermosa informática"/>
+				<Field Name="Forename" Value="Jimenez"/>
+				<Field Name="Surname" Value="Tito"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="modesto jimenez"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="modesto@mhermida.com"/>
+				<Field Name="UserName" Value="modesto"/>
+				<Field Name="JobID" Value="402354050-32245-16986-190-51"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="01"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

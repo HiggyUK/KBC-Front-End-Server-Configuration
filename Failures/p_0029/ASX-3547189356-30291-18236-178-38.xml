@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="442168EC4E779537BC2392C39AA534A41CCD867668931A6630C6A1863DC7E5C9D82751A44795A927018A4550CA09C45D">
+	<Header Version="2" DateCreated="2019-04-01" TimeCreated="13:32:14" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1460202049-5053-18168-171-224">
+		<KnowledgeObject ObjID="3135814965-22527-18350-162-140">
+			<KnowledgeFields>
+				<Field Name="DocClass" Value="Not Found"/>
+				<Field Name="UserName" Value="dannymannix"/>
+				<Field Name="UserEmail" Value="danny@copyritesystems.co.uk"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\dannymannix"/>
+				<Field Name="FormName" Value="Classification Example"/>
+				<Field Name="JobID" Value="3135814965-22527-18350-162-140"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="RequestType" Value="Email"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientJobInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JobId>e0de6edc-7400-45fe-a591-7aee068571a4</JobId>
+  <FormId>d755c335-ff20-415e-a834-6792eed484d4</FormId>
+  <User>
+    <Email>daniel.larabie@kofax.com</Email>
+    <UserName>daniel.larabie</UserName>
+    <Domain>KOFAXMOBILE</Domain>
+    <Groups>
+      <string>KOFAXMOBILE\Domain Users</string>
+    </Groups>
+    <UserAttributes>
+      <Metadata>
+        <Name>homeDirectory</Name>
+        <Data>\\US01VMBCMD01\HOME\daniel.larabie</Data>
+      </Metadata>
+    </UserAttributes>
+  </User>
+  <ClientAddress>172.31.1.81</ClientAddress>
+  <ServerAddress>::1</ServerAddress>
+  <ServerHostName>localhost</ServerHostName>
+  <FieldData>
+    <Metadata>
+      <Name>TimeSheet</Name>
+      <Data>Administrator-Fred-6_27_2016</Data>
+    </Metadata>
+    <Metadata>
+      <Name>TimeSheetDetails</Name>
+      <Data>C:\Kofax\CompleteDemo\Settings\TimeSheet\ToApprove\daniel.larabie\Administrator-Fred-6_27_2016.txt</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Action</Name>
+      <Data>p_0009</Data>
+    </Metadata>
+    <Metadata>
+      <Name>RejectReason</Name>
+      <Data />
+    </Metadata>
+    <Metadata>
+      <Name>Signed</Name>
+      <Data>iVBORw0KGgoAAAANSUhEUgAAAZAAAACgCAYAAAAisjrVAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAT2SURBVHhe7d0xSl1bG8dhB2CZyl4yAcsMIZWNA7CySWHjECyCYJkhCKlSZARio9aCBkyTIiAIkmAgmLyXd3GFr/T88XOfc+7zwIbNbgPn57vWztorBQABAQEgIiAARAQEgIiAABAREAAiAgJAREAAiAgIABEBASAiIABEBASAiIAAEBEQACICAkBEQACICAgAEQEBICIgAEQEBICIgAAQERAAIgICQERAAIgICAARAQEgIiAARAQEgIiAABAREAAiAgJAREAAiAgIABEBASAiIABEBASAiIAAEBEQACICAkBEQACICAgAEQEBICIgAEQEBICIgAAQERAAIgICQERAAIgICAARAQEgIiAARAQEgIiAABAREAAiAgIL4O7urr58+TKuvod5ICAw5+7v7+vs7Kzev38/rr7vZzA1AYE5d3p6Wru7u/Xq1atx9X0/g6kJCMy54+Pj2t7erpWVlXH1fT+DqQkIzLnLy8s6PDysN2/ejKvv+xlMTUBgzv39+7eur6/r48eP4+r7fjbvHh4e6vb2tm5uburHjx//PmWZCAgsgN+/f48f4b76ft514Doc+/v7tbe3V0dHRyMoLBcBAZ7d1dVVHRwc1MbGRq2vr9fm5uaIiElkuQgI8OxOTk5qa2urVldXx8Z/R6QnkZ5KWB4CAjy78/Pz2tnZqbW1tRGRnkR6Oav3RFgeAgI8u/6PjhcXFyMiPYn0clZPH/ZBlouAAM+uN9E7Ij2J9HJW74kswptjzEZAgJk5m4smIMBMnM3FIwEBZuJsLh4JCDATZ3PxSECAmTibi0cCAsxkUc/m4vkJCDCzRTubi/8PAQEgIiAARAQEgIiAABAREAAiAgJAREAAiAgIABEBASAiIABEBASAiIAAEBEQACICsmD62Ozv37+Pb1F//frVSajAZARkgfz582ccn/3p06fxLeoPHz7Ut2/fRASYhIAskJ8/f9bnz5/r7du341vUr1+/HhHpSQTgpQnIAunpo78A158R7W9Rd0R6EunlLICXJiAL5NevX3V6elrv3r0bEelJpJezek8E4KUJyILpfZCOSE8ivZzVU4nvUf83PDw81O3tbd3c3Ix/d5iagCygnkT6B6T3RDooLL/+I6HDsb+/X3t7e3V0dDSCAlMSEJ7s/v5+TD/Hx8d1eXlp8nlBV1dXdXBwUBsbG7W+vl6bm5sjIiYRpiQgPMnd3V2dnZ3V7u5ubW9v1+HhYV1fX3uF+IWcnJzU1tZWra6ujhcoOiI9ifRUAlMREJ6k3/TqN776za/+AetN/N6H8Rfwyzg/P6+dnZ1aW1sbEelJpJezek8EpiIgPImATKuXDy8uLkZEehLp5ayePuyDMCUB4UksYU2r95s6Ij2J9HJW74nYg2JqAsKT2UQH/peAABAREAAiAgJAREAAiAgIABEBASAiIABEBASAiIAAEBEQACICAkBEQACICAgAEQEBICIgAEQEBICIgAAQERAAIgICQERAAIgICAARAQEgIiAARAQEgIiAABAREAAiAgJAREAAiAgIABEBASAiIABEBASAiIAAEBEQACICAkBEQACICAgAEQEBICIgAEQEBICIgAAQERAAIgICQERAAIgICAARAQEgIiAARAQEgIiAABAREAAiAgJAREAAiAgIABEBASAiIABEBASAiIAAEBEQACICAkBEQACICAgAgap/AG4BXblG/MDkAAAAAElFTkSuQmCC</Data>
+    </Metadata>
+  </FieldData>
+  <LocalFilePaths />
+</ClientJobInfo>

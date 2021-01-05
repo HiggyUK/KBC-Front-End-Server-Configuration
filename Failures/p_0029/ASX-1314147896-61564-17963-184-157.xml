@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="B7E032C0F26E2B30C2DE6E47DD82A4FD93CA3F121C9771AC9ACE3D0F8D71384D4294B0F98AC6324D8B3982E1C222E5D4">
+	<Header Version="2" DateCreated="2018-11-13" TimeCreated="04:07:12" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1674481254-23156-17646-149-77">
+		<KnowledgeObject ObjID="2111440903-65224-19821-161-55">
+			<KnowledgeFields>
+				<Field Name="DocClass" Value="Not Found"/>
+				<Field Name="UserName" Value="wgh213"/>
+				<Field Name="UserEmail" Value="william.holley@nuance.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\wgh213"/>
+				<Field Name="FormName" Value="Classification Example"/>
+				<Field Name="JobID" Value="2111440903-65224-19821-161-55"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="RequestType" Value="Email"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

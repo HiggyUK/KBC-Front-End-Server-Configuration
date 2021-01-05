@@ -1,0 +1,7 @@
+Surname|Smith
+Firstname|Bob
+Company|Ricoh
+Host|danacendicott
+DateOfVisit|2018/04/24
+CarParking|Yes
+CarReg|

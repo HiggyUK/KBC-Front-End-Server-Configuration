@@ -1,0 +1,15 @@
+Time Sheet ID: 0000250
+Time Sheet For: konicaminoltamurzzy  submitted on 25-01-2019
+
+Week Commencing:
+25-01-2019
+
+Day                     Start     Finish    Hours
+Monday                  8Am     5Pm     09:00
+Tuesday                 8Am     5Pm     09:00
+Wednesday               8Am     5Pm     09:00
+Thursday                8Am     5Pm     09:00
+Friday                  8Am     5Pm     09:00
+
+Total Hours: 45:00
+

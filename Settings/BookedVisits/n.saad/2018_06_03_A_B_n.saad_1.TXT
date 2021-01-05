@@ -1,0 +1,7 @@
+Surname|A
+Firstname|B
+Company|C
+Host|n.saad
+DateOfVisit|2018/06/03
+CarParking|No
+CarReg|

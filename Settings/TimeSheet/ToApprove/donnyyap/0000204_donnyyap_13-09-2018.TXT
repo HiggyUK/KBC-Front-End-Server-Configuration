@@ -1,0 +1,15 @@
+Time Sheet ID: 0000204
+Time Sheet For: donnyyap  submitted on 14-09-2018
+
+Week Commencing:
+13-09-2018
+
+Day                     Start     Finish    Hours
+Monday                  9am     5pm     08:00
+Tuesday                 9am     5pm     08:00
+Wednesday               9am     5pm     08:00
+Thursday                9am     5pm     08:00
+Friday                  9am     9pm     12:00
+
+Total Hours: 44:00
+

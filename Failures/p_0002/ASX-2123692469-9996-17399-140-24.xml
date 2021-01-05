@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="65BA30FFD54B859FA17928BB010DC56070F46D9521FEF786615300BE4A1202DF8C97CF96E05649B54A1408FFD0DD1BBA">
+	<Header Version="2" DateCreated="2018-07-10" TimeCreated="06:45:40" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3018265712-18760-18003-184-41">
+		<KnowledgeObject ObjID="4042097194-31127-16667-145-30">
+			<KnowledgeFields>
+				<Field Name="SelectedVisitor" Value="2018_07_10_John_Doe_lporquet-nuance_1"/>
+				<Field Name="UserName" Value="lporquet-nuance"/>
+				<Field Name="UserEmail" Value="ludovic.porquet@nuance.Com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\lporquet-nuance"/>
+				<Field Name="FormName" Value="Delete Visitor"/>
+				<Field Name="JobID" Value="4042097194-31127-16667-145-30"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

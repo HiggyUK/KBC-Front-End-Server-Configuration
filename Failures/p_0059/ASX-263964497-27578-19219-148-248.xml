@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="0F8C45508E63FB2C37BD6BD8A02578FCC0D751302FFEA31696F7ED7A67D1E0C80F6B91AE70EB5E1B0DB6266F54AB2CA3">
+	<Header Version="2" DateCreated="2018-09-26" TimeCreated="12:57:15" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1749225005-789-18499-152-105">
+		<KnowledgeObject ObjID="173244000-52201-17869-140-201">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="Hh-12345"/>
+				<Field Name="Visiting" Value="10001     "/>
+				<Field Name="Company" Value="Kos Nord"/>
+				<Field Name="Forename" Value="Test"/>
+				<Field Name="Surname" Value="Test"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="JLasch JLasch"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="juergen.lasch@kosnord.de"/>
+				<Field Name="UserName" Value="jlasch"/>
+				<Field Name="JobID" Value="173244000-52201-17869-140-201"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="123"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

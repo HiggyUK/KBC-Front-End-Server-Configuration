@@ -1,0 +1,7 @@
+Surname|Tito
+Firstname|Jiménez
+Company|M Hermida
+Host|modesto@mhermida.com
+DateOfVisit|2018/05/23
+CarParking|Yes
+CarReg|1234 hhh

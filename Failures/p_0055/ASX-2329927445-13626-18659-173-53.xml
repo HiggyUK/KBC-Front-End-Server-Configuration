@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="1EFE6A7D8A06CBE78349607ED4508CB36383D24744959456EA21C2E97EC1F35B55FBA084995F7D695085BC95B93F46D0">
+	<Header Version="2" DateCreated="2020-02-21" TimeCreated="09:57:51" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="593176980-57487-17423-141-174">
+		<KnowledgeObject ObjID="2862657329-61797-17902-171-78">
+			<KnowledgeFields>
+				<Field Name="UserHomeFolder" Value="\\US01VMBCMD01\HOME\pdearborn"/>
+				<Field Name="JobID" Value="2862657329-61797-17902-171-78"/>
+				<Field Name="DelegatePhone" Value="123455677"/>
+				<Field Name="FormName" Value="Event Competition"/>
+				<Field Name="UserName" Value="pdearborn"/>
+				<Field Name="UserEmail" Value="phillip.dearborn@ricoh-usa.com"/>
+				<Field Name="DelegateCompany" Value="Ricoh"/>
+				<Field Name="DelegateName" Value="Phil"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

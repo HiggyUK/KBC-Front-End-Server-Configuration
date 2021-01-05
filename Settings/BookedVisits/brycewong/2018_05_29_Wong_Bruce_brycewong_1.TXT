@@ -1,0 +1,7 @@
+Surname|Wong
+Firstname|Bruce
+Company|Ricoh
+Host|brycewong
+DateOfVisit|2018/05/29
+CarParking|Yes
+CarReg|833rxx

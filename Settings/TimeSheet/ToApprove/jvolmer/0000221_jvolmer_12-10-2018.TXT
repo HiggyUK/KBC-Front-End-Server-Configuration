@@ -1,0 +1,15 @@
+Time Sheet ID: 0000221
+Time Sheet For: jvolmer  submitted on 12-10-2018
+
+Week Commencing:
+12-10-2018
+
+Day                     Start     Finish    Hours
+Monday                  08:00     17:00     09:00
+Tuesday                 08:00     17:00     09:00
+Wednesday               08:00     17:00     09:00
+Thursday                08:00     17:00     09:00
+Friday                  08:00     13:00     05:00
+
+Total Hours: 41:00
+

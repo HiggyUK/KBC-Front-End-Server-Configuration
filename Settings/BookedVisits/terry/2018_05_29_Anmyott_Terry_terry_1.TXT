@@ -1,0 +1,7 @@
+Surname|Anmyott
+Firstname|Terry
+Company|Abc
+Host|terry
+DateOfVisit|2018/05/29
+CarParking|Yes
+CarReg|Tyu890

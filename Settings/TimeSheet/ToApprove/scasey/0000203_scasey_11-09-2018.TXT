@@ -1,0 +1,15 @@
+Time Sheet ID: 0000203
+Time Sheet For: scasey  submitted on 11-09-2018
+
+Week Commencing:
+11-09-2018
+
+Day                     Start     Finish    Hours
+Monday                  7am     4pm     09:00
+Tuesday                 7am     4pm     09:00
+Wednesday               7am     4pm     09:00
+Thursday                7am     4pm     09:00
+Friday                  7am     4pm     09:00
+
+Total Hours: 45:00
+

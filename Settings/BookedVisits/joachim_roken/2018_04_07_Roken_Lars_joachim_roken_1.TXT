@@ -1,0 +1,7 @@
+Surname|Roken
+Firstname|Lars
+Company|Nuance
+Host|joachim_roken
+DateOfVisit|2018/04/07
+CarParking|No
+CarReg|

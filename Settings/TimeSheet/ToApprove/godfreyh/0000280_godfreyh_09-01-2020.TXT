@@ -1,0 +1,15 @@
+Time Sheet ID: 0000280
+Time Sheet For: godfreyh  submitted on 10-01-2020
+
+Week Commencing:
+09-01-2020
+
+Day                     Start     Finish    Hours
+Monday                  9:00     17:00     08:00
+Tuesday                 9:00     17:00     08:00
+Wednesday               9:00     17:00     08:00
+Thursday                9:00     17:00     08:00
+Friday                  9:00     17:00     08:00
+
+Total Hours: 40:00
+

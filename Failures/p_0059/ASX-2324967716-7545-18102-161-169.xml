@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="4EED5BB15AB82223700645BE2C0E5CB34DB4CD0AD7C778C4DA087221F1B3FBFDE4B2A486E50190B50D1E0153C7B15A3B">
+	<Header Version="2" DateCreated="2020-06-15" TimeCreated="23:55:59" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3680681158-16912-17231-158-234">
+		<KnowledgeObject ObjID="3841222673-16012-16491-161-88">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="M-TA 6020"/>
+				<Field Name="Visiting" Value="200000"/>
+				<Field Name="Company" Value="Kofax"/>
+				<Field Name="Forename" Value="Maik"/>
+				<Field Name="Surname" Value="Schneider"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="Maik Schneider"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="maik.schneider@kofax.com"/>
+				<Field Name="UserName" Value="maik.schneider"/>
+				<Field Name="JobID" Value="3841222673-16012-16491-161-88"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="12345"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

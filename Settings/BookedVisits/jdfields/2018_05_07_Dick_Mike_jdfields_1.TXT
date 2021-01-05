@@ -1,0 +1,7 @@
+Surname|Dick
+Firstname|Mike
+Company|Ricoh
+Host|jdfields
+DateOfVisit|2018/05/07
+CarParking|Yes
+CarReg|Abc1234

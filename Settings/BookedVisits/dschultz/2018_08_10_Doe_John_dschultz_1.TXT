@@ -1,0 +1,7 @@
+Surname|Doe
+Firstname|John
+Company|Acme
+Host|dschultz
+DateOfVisit|2018/08/10
+CarParking|No
+CarReg|

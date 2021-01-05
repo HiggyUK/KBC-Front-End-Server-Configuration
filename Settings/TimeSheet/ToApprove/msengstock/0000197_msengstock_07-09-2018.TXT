@@ -1,0 +1,15 @@
+Time Sheet ID: 0000197
+Time Sheet For: msengstock  submitted on 05-09-2018
+
+Week Commencing:
+07-09-2018
+
+Day                     Start     Finish    Hours
+Monday                  8:00Am     5:00Pm     09:00
+Tuesday                 7:30am     3:30Pm     08:00
+Wednesday               8:00am     5:00pm     09:00
+Thursday                8:00am     5:00pm     09:00
+Friday                  8:00am     5:00pm     09:00
+
+Total Hours: 44:00
+

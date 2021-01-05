@@ -1,0 +1,7 @@
+Surname|Masalla
+Firstname|Daniel
+Company|Company IT
+Host|delst
+DateOfVisit|2018/09/14
+CarParking|Yes
+CarReg|

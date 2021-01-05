@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="A84DA64AA609F7B6A4869258505E3D2BC12BD78B79F9144E5176704F9AE59650816462002781203A8F741D09A48F32CF">
+	<Header Version="2" DateCreated="2018-04-05" TimeCreated="19:51:41" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3886804204-22206-19705-173-144">
+		<KnowledgeObject ObjID="461617188-39665-17654-185-221">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="bill.holley"/>
+				<Field Name="UserEmail" Value="bill.holley@nuance.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\bill.holley"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value="556789"/>
+				<Field Name="Surname" Value="Holley"/>
+				<Field Name="Forename" Value="Bob"/>
+				<Field Name="Address" Value="123 Elm Street"/>
+				<Field Name="PostCode" Value="39548"/>
+				<Field Name="JobID" Value="461617188-39665-17654-185-221"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

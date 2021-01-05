@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="6B9ECD451ABC81B094EC3D7762BD5985BEC3503DB9BC5CEDC730A3C31079AC38E7F6D36DE75D94E46F0814E3EDD0C4C5">
+	<Header Version="2" DateCreated="2019-04-06" TimeCreated="09:34:16" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3033081515-38150-20127-142-235">
+		<KnowledgeObject ObjID="1297272065-42905-19075-186-109">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="Hettnnn"/>
+				<Field Name="Visiting" Value="10003     "/>
+				<Field Name="Company" Value="Capita"/>
+				<Field Name="Forename" Value="Chris"/>
+				<Field Name="Surname" Value="Tymon"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="ChrisTymonCapita ChrisTymonCapita"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="Chris_tymon@hotmail.com"/>
+				<Field Name="UserName" Value="christymoncapita"/>
+				<Field Name="JobID" Value="1297272065-42905-19075-186-109"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="1"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

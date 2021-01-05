@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="881607E470D43CBCCC1EA05D547478694A6F11DB376F57591081BE888C1B42FF5AE29BB77D7271FA187A4074EC2EFAC2">
+	<Header Version="2" DateCreated="2020-02-21" TimeCreated="09:56:25" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1484632092-47138-17116-189-167">
+		<KnowledgeObject ObjID="3686282492-53093-17712-179-93">
+			<KnowledgeFields>
+				<Field Name="TechName" Value="~WCC::User,%displayName%~"/>
+				<Field Name="Signature" Value=""/>
+				<Field Name="1M10" Value="0"/>
+				<Field Name="1M9" Value="0"/>
+				<Field Name="1M8" Value="0"/>
+				<Field Name="1M7" Value="0"/>
+				<Field Name="1M6" Value="0"/>
+				<Field Name="1M5" Value="0"/>
+				<Field Name="1M4" Value="0"/>
+				<Field Name="1M3" Value="0"/>
+				<Field Name="1M2" Value="0"/>
+				<Field Name="1M1" Value="0"/>
+				<Field Name="3M3" Value="0"/>
+				<Field Name="3M2" Value="0"/>
+				<Field Name="3M1" Value="0"/>
+				<Field Name="12M5" Value="R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+				<Field Name="12M4" Value="R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+				<Field Name="12M3" Value="R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+				<Field Name="12M2" Value="R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+				<Field Name="12M1" Value="R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+				<Field Name="MachineName" Value="R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+				<Field Name="Area" Value="R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+				<Field Name="MachineID" Value="R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+				<Field Name="Section" Value="Field Maintenance"/>
+				<Field Name="JobID" Value="3686282492-53093-17712-179-93"/>
+				<Field Name="UserEmail" Value="phillip.dearborn@ricoh-usa.com"/>
+				<Field Name="UserName" Value="pdearborn"/>
+				<Field Name="FormName" Value="Machine Maintenance"/>
+				<Field Name="UserHomeFolder" Value="\\US01VMBCMD01\HOME\pdearborn"/>
+				<Field Name="RenameSchema" Value="Maintenance Worksheet DBK62 - R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== -21 - Feb - 2020"/>
+				<Field Name="FormDate" Value="02/21/20"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

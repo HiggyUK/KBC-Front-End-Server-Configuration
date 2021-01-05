@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="91F964730D8B446F905E9259E226761B80DF66E9BFE8DCB0D712EBC7A147CD47088F1F20558CA5026CC2A5912615045E">
+	<Header Version="2" DateCreated="2018-10-26" TimeCreated="11:10:06" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="892097239-56827-19438-175-22">
+		<KnowledgeObject ObjID="383248395-25919-18063-181-39">
+			<KnowledgeFields>
+				<Field Name="SelectedVisitor" Value=""/>
+				<Field Name="UserName" Value="juha.tanttinen"/>
+				<Field Name="UserEmail" Value="juha.tanttinen@canorama.fi"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\juha.tanttinen"/>
+				<Field Name="FormName" Value="Delete Visitor"/>
+				<Field Name="JobID" Value="383248395-25919-18063-181-39"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClientJobInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JobId>32c89baf-24ca-4a16-928b-577261123d26</JobId>
+  <FormId>65f3761e-6da9-4a7c-a3e6-95ca5df4bd99</FormId>
+  <User>
+    <Email>john.campbellhiggens@kofax.com</Email>
+    <UserName>JCH</UserName>
+    <Domain>KOFAXMOBILE</Domain>
+    <Groups>
+      <string>KOFAXMOBILE\Domain Users</string>
+    </Groups>
+    <UserAttributes>
+      <Metadata>
+        <Name>homeDirectory</Name>
+        <Data>\\US01VMBCMD01\Home$\JCH</Data>
+      </Metadata>
+    </UserAttributes>
+  </User>
+  <ClientAddress>172.31.1.81</ClientAddress>
+  <ServerAddress>::1</ServerAddress>
+  <ServerHostName>localhost</ServerHostName>
+  <FieldData>
+    <Metadata>
+      <Name>Label1</Name>
+      <Data>StudentDetails</Data>
+    </Metadata>
+    <Metadata>
+      <Name>StudentID</Name>
+      <Data>123456</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Surname</Name>
+      <Data>Jones</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Firstname</Name>
+      <Data>Peter</Data>
+    </Metadata>
+    <Metadata>
+      <Name>DOB</Name>
+      <Data>14/04/2003</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Label2</Name>
+      <Data>Course Details</Data>
+    </Metadata>
+    <Metadata>
+      <Name>CourseID</Name>
+      <Data>Y815</Data>
+    </Metadata>
+    <Metadata>
+      <Name>StartDate</Name>
+      <Data>11/11/2019</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Label3</Name>
+      <Data>Personal Details</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Address</Name>
+      <Data>59 Ainsworth Road
+Bolton
+BL3 1RB</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Mobile</Name>
+      <Data>07585977713</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Email</Name>
+      <Data>John.campbellhiggens@kofax.com</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Label4</Name>
+      <Data>Photo ID</Data>
+    </Metadata>
+    <Metadata>
+      <Name>Label5</Name>
+      <Data>Text</Data>
+    </Metadata>
+    <Metadata>
+      <Name>btnNext</Name>
+      <Data>Next</Data>
+    </Metadata>
+    <Metadata>
+      <Name>btnBack</Name>
+      <Data>Back</Data>
+    </Metadata>
+    <Metadata>
+      <Name>formNo</Name>
+      <Data>4</Data>
+    </Metadata>
+  </FieldData>
+  <LocalFilePaths>
+    <string>C:\Kofax\MobileDemo\Home\WebCapture\WORK\abd11ec2-a347-42b5-82dc-023c38f8af43\cdv_photo_006.jpg</string>
+  </LocalFilePaths>
+</ClientJobInfo>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="C03F63FC8C3DBC5113040C7A754C3D1F2570990FFAB41C49F0D30B03771206A9CC4046A5082B3B23BEC9800A7948D3D5">
+	<Header Version="2" DateCreated="2018-08-20" TimeCreated="12:52:48" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3940251471-10214-19972-147-119">
+		<KnowledgeObject ObjID="3812760003-44823-20100-188-125">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="AB12CDE"/>
+				<Field Name="Visiting" Value="10001     "/>
+				<Field Name="Company" Value="Apogee"/>
+				<Field Name="Forename" Value="Ben"/>
+				<Field Name="Surname" Value="Boulton"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="ben.boulton ben.boulton"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="ben.boulton@apogeecorp.com"/>
+				<Field Name="UserName" Value="ben.boulton"/>
+				<Field Name="JobID" Value="3812760003-44823-20100-188-125"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="1"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

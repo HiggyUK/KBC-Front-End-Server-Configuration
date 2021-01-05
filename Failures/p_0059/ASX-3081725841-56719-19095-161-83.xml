@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="8C635632DA37A1FECE5B5D3B80AF6B9111837B69898C5A010AEED66D9E6B056ACBC212C913D01166740024A5F89BBCE9">
+	<Header Version="2" DateCreated="2019-04-10" TimeCreated="13:24:10" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1793505098-32823-18088-148-21">
+		<KnowledgeObject ObjID="1762358907-13495-19666-156-249">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="Tygfh"/>
+				<Field Name="Visiting" Value="10006     "/>
+				<Field Name="Company" Value="Ruy"/>
+				<Field Name="Forename" Value="Rug"/>
+				<Field Name="Surname" Value="Ryg"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="Fiona.lane Fiona.lane"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="Fiona.lane@ricoh.co.uk"/>
+				<Field Name="UserName" Value="fiona.lane"/>
+				<Field Name="JobID" Value="1762358907-13495-19666-156-249"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="Fyg"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

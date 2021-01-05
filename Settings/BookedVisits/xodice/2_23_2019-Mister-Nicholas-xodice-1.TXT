@@ -1,0 +1,7 @@
+Surname|Mister
+Firstname|Nicholas
+Company|ActiproSoftwareLLC.562882FEEB491_24pqs290vpjk0
+Host|xodice
+DateOfVisit|2/23/2019
+CarParking|Yes
+CarReg|Gml 591

@@ -1,0 +1,7 @@
+Surname|Yang
+Firstname|Stephen
+Company|Ricoh
+Host|stephen.yang
+DateOfVisit|2018/05/29
+CarParking|Yes
+CarReg|Haha

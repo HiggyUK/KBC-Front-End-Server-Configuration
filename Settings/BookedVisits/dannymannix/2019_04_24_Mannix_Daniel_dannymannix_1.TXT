@@ -1,0 +1,7 @@
+Surname|Mannix
+Firstname|Daniel
+Company|Copyrite systems
+Host|dannymannix
+DateOfVisit|2019/04/24
+CarParking|Yes
+CarReg|Mj66ytt

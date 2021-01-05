@@ -1,0 +1,7 @@
+Surname|Schmit
+Firstname|Chris
+Company|Ricoh Canada
+Host|surfingiant101
+DateOfVisit|2018/05/29
+CarParking|Yes
+CarReg|AF979F

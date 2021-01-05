@@ -1,0 +1,7 @@
+Surname|MacDonald
+Firstname|Kyle
+Company|Kofax
+Host|Kyle.Macdonald
+DateOfVisit|2019/06/26
+CarParking|Yes
+CarReg|Done

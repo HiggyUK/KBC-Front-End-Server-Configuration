@@ -1,0 +1,7 @@
+Surname|Hector
+Firstname|Thomas
+Company|RCI
+Host|thomas hector
+DateOfVisit|2018/05/29
+CarParking|Yes
+CarReg|Ev331n

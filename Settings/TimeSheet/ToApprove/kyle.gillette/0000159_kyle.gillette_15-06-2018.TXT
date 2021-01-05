@@ -1,0 +1,15 @@
+Time Sheet ID: 0000159
+Time Sheet For: kyle.gillette  submitted on 14-06-2018
+
+Week Commencing:
+15-06-2018
+
+Day                     Start     Finish    Hours
+Monday                  8:00 am     4:00 pm     08:00
+Tuesday                 8:00 am     4:00 pm     08:00
+Wednesday               8:00 am     4:00 pm     08:00
+Thursday                8:00 am     4:00 pm     08:00
+Friday                  8:00 am     4:00 pm     08:00
+
+Total Hours: 40:00
+

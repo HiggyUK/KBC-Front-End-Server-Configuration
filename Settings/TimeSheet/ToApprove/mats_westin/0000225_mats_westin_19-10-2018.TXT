@@ -1,0 +1,15 @@
+Time Sheet ID: 0000225
+Time Sheet For: mats_westin  submitted on 21-10-2018
+
+Week Commencing:
+19-10-2018
+
+Day                     Start     Finish    Hours
+Monday                            
+Tuesday                 08:00     17:00     09:00
+Wednesday               08:00     17:00     09:00
+Thursday                08:00     17:00     09:00
+Friday                  08:00     17:00     09:00
+
+Total Hours: 36:00
+

@@ -1,0 +1,15 @@
+Time Sheet ID: 0000224
+Time Sheet For: rgranja  submitted on 19-10-2018
+
+Week Commencing:
+21-10-2018
+
+Day                     Start     Finish    Hours
+Monday                  13:00     15:00     02:00
+Tuesday                 13:00     15:00     02:00
+Wednesday               13:00     15:00     02:00
+Thursday                13:00     15:00     02:00
+Friday                  13:00     15:00     02:00
+
+Total Hours: 10:00
+

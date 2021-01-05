@@ -1,0 +1,15 @@
+Time Sheet ID: 0000246
+Time Sheet For: maik.schneider  submitted on 09-01-2019
+
+Week Commencing:
+07-01-2019
+
+Day                     Start     Finish    Hours
+Monday                  08:00     17:00     09:00
+Tuesday                 08:00     17:00     09:00
+Wednesday               10:00     21:00     11:00
+Thursday                08:00     17:00     09:00
+Friday                  08:00     17:00     09:00
+
+Total Hours: 47:00
+

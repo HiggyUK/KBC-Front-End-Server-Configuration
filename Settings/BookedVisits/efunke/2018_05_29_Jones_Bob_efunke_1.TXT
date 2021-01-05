@@ -1,0 +1,7 @@
+Surname|Jones
+Firstname|Bob
+Company|Acme
+Host|efunke
+DateOfVisit|2018/05/29
+CarParking|Yes
+CarReg|Hohoho

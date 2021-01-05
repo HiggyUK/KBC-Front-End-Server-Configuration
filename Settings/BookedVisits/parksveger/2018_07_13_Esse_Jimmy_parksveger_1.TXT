@@ -1,0 +1,7 @@
+Surname|Esse
+Firstname|Jimmy
+Company|Boring co
+Host|parksveger
+DateOfVisit|2018/07/13
+CarParking|Yes
+CarReg|12345

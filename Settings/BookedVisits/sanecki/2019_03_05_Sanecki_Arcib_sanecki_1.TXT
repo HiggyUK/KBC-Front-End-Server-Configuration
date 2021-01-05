@@ -1,0 +1,7 @@
+Surname|Sanecki
+Firstname|Arcib
+Company|Nuance
+Host|sanecki
+DateOfVisit|2019/03/05
+CarParking|Yes
+CarReg|

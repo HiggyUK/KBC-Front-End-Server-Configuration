@@ -1,0 +1,15 @@
+Time Sheet ID: 0000289
+Time Sheet For: mmccauley  submitted on 15-03-2020
+
+Week Commencing:
+15-03-2020
+
+Day                     Start     Finish    Hours
+Monday                  8:00     17:00     09:00
+Tuesday                 8:00     17:00     09:00
+Wednesday               8:00     17:00     09:00
+Thursday                8:00     17:00     09:00
+Friday                  8:00     17:00     09:00
+
+Total Hours: 45:00
+

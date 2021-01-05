@@ -1,0 +1,7 @@
+Surname|Sanecki
+Firstname|Marcin
+Company|Nuance
+Host|marcin
+DateOfVisit|2018/06/14
+CarParking|Yes
+CarReg|

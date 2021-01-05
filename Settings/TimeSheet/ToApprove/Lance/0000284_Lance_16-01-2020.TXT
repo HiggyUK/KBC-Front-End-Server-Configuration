@@ -1,0 +1,15 @@
+Time Sheet ID: 0000284
+Time Sheet For: Lance  submitted on 22-01-2020
+
+Week Commencing:
+16-01-2020
+
+Day                     Start     Finish    Hours
+Monday                  09:00     17:00     08:00
+Tuesday                 09:00     13:00     04:00
+Wednesday               09:00     17:00     08:00
+Thursday                09:00     17:00     08:00
+Friday                  09:00     17:00     08:00
+
+Total Hours: 36:00
+

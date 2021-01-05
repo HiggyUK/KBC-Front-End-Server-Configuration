@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="3EFFCDB96ED3646B0ED4D700BCF91A3986A6C696C5EC21E1F2602B8D5F3D567174AA6ACAE1F8F4061808131823C372EC">
+	<Header Version="2" DateCreated="2019-03-12" TimeCreated="16:35:56" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="2035544795-30935-18295-136-120">
+		<KnowledgeObject ObjID="2036867234-47970-17219-140-104">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="Hxhxxhxhx"/>
+				<Field Name="Visiting" Value="10006     "/>
+				<Field Name="Company" Value="Sta dir"/>
+				<Field Name="Forename" Value="T"/>
+				<Field Name="Surname" Value="T"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="Cliff van Duijn Cliff van Duijn"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="cliff.van.duijn@xtandit.nl"/>
+				<Field Name="UserName" Value="cliff van duijn"/>
+				<Field Name="JobID" Value="2036867234-47970-17219-140-104"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="1234"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

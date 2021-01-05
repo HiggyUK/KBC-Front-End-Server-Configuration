@@ -1,0 +1,15 @@
+Time Sheet ID: 0000100
+Time Sheet For: derekagri  submitted on 12-04-2018
+
+Week Commencing:
+11-04-2018
+
+Day                     Start     Finish    Hours
+Monday                  08:00am     05:00pm     09:00
+Tuesday                 08:00am     05:00pm     09:00
+Wednesday               08:00am     05:00pm     09:00
+Thursday                08:00am     05:00pm     09:00
+Friday                  08:00am     05:00pm     09:00
+
+Total Hours: 45:00
+

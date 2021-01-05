@@ -1,0 +1,7 @@
+Surname|Schneider
+Firstname|Maik
+Company|Nuance
+Host|maik.schneider
+DateOfVisit|2019/02/21
+CarParking|Yes
+CarReg|M-X 5

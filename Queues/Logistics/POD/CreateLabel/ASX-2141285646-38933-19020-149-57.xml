@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="A2B4DA0B1D7DF7935AB5DA2C95FD142EE768427C8C8E4F137A0331D851E3A85673724FF2A811AB49A7DBB5F0BA0D0966">
+	<Header Version="2" DateCreated="2018-04-12" TimeCreated="16:00:37" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="3562286753-60810-18208-189-254">
+		<KnowledgeObject ObjID="2814113714-60586-20034-189-122">
+			<KnowledgeFields>
+				<Field Name="UserName" Value="demosoftsystem"/>
+				<Field Name="UserEmail" Value="info@softsystem.cl"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\DemoSoftsystem"/>
+				<Field Name="FormName" Value="Delivery Label Creation"/>
+				<Field Name="DeliveryID" Value="35645"/>
+				<Field Name="Surname" Value="Frias"/>
+				<Field Name="Forename" Value="Luis"/>
+				<Field Name="Address" Value="Dri 343"/>
+				<Field Name="PostCode" Value="3765876"/>
+				<Field Name="JobID" Value="2814113714-60586-20034-189-122"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

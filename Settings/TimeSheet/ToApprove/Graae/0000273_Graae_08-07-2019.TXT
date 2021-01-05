@@ -1,0 +1,15 @@
+Time Sheet ID: 0000273
+Time Sheet For: Graae  submitted on 06-05-2019
+
+Week Commencing:
+08-07-2019
+
+Day                     Start     Finish    Hours
+Monday                  08:00     10:00     02:00
+Tuesday                 08:00     10:00     02:00
+Wednesday               08:00     10:00     02:00
+Thursday                08:00     10:00     02:00
+Friday                  08:00     10:00     02:00
+
+Total Hours: 10:00
+

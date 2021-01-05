@@ -1,0 +1,15 @@
+Time Sheet ID: 0000111
+Time Sheet For: jim  submitted on 25-04-2018
+
+Week Commencing:
+28-04-2018
+
+Day                     Start     Finish    Hours
+Monday                  6Am     3Pm     09:00
+Tuesday                 6Am     3Pm     09:00
+Wednesday               6Am     3Pm     09:00
+Thursday                6Am     3Pm     09:00
+Friday                  6Am     3Pm     09:00
+
+Total Hours: 45:00
+

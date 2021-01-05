@@ -1,0 +1,15 @@
+Time Sheet ID: 0000147
+Time Sheet For: thomas hector  submitted on 29-05-2018
+
+Week Commencing:
+01-06-2018
+
+Day                     Start     Finish    Hours
+Monday                  8:00     17:00     09:00
+Tuesday                 8:00     17:00     09:00
+Wednesday               8:30     17:00     09:00
+Thursday                8:00     17:00     09:00
+Friday                  8:00     17:00     09:00
+
+Total Hours: 45:00
+

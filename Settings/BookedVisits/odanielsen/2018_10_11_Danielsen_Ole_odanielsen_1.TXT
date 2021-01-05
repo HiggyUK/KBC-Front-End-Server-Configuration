@@ -1,0 +1,7 @@
+Surname|Danielsen
+Firstname|Ole
+Company|Km
+Host|odanielsen
+DateOfVisit|2018/10/11
+CarParking|No
+CarReg|

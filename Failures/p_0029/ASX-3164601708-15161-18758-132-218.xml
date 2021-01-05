@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="05A79F2F7C0525AF9CC04062B5447135E761030820EDB0137C63D966C612F278961D3991AD1130C4DCA28040885917D3">
+	<Header Version="2" DateCreated="2019-07-20" TimeCreated="04:34:43" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1901318543-20856-18268-149-117">
+		<KnowledgeObject ObjID="4134909816-4213-17184-157-253">
+			<KnowledgeFields>
+				<Field Name="DocClass" Value="Not Found"/>
+				<Field Name="UserName" Value="Xodice"/>
+				<Field Name="UserEmail" Value="Nparillo@ssdvermont.com"/>
+				<Field Name="UserHomeFolder" Value="\\NUAN-MOBAD01\HOME\Xodice"/>
+				<Field Name="FormName" Value="Classification Example"/>
+				<Field Name="JobID" Value="4134909816-4213-17184-157-253"/>
+				<Field Name="Section" Value="Security and GDPR"/>
+				<Field Name="RequestType" Value="Email"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>

@@ -1,0 +1,7 @@
+Surname|Test
+Firstname|Test
+Company|Test1
+Host|alexochrombel
+DateOfVisit|2019/04/24
+CarParking|Yes
+CarReg|123

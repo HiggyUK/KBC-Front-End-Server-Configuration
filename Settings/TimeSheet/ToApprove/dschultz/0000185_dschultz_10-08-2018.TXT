@@ -1,0 +1,15 @@
+Time Sheet ID: 0000185
+Time Sheet For: dschultz  submitted on 10-08-2018
+
+Week Commencing:
+10-08-2018
+
+Day                     Start     Finish    Hours
+Monday                  8am     5pm     09:00
+Tuesday                 8am     5pm     09:00
+Wednesday               8am     5pm     09:00
+Thursday                8am     5pm     09:00
+Friday                  8am     1pm     05:00
+
+Total Hours: 41:00
+

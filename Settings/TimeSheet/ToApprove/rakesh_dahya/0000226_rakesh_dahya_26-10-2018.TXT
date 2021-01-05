@@ -1,0 +1,15 @@
+Time Sheet ID: 0000226
+Time Sheet For: rakesh_dahya  submitted on 26-10-2018
+
+Week Commencing:
+26-10-2018
+
+Day                     Start     Finish    Hours
+Monday                  08:30     17:00     08:30
+Tuesday                 08:30     17:00     08:30
+Wednesday               08:30     17:00     08:30
+Thursday                08:30     17:00     08:30
+Friday                  08:30     17:00     08:30
+
+Total Hours: 41:90
+

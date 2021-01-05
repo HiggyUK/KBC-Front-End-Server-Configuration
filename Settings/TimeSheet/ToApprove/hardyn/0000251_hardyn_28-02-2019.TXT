@@ -1,0 +1,15 @@
+Time Sheet ID: 0000251
+Time Sheet For: hardyn  submitted on 29-01-2019
+
+Week Commencing:
+28-02-2019
+
+Day                     Start     Finish    Hours
+Monday                  11:00     12:00     01:00
+Tuesday                 11:00     12:00     01:00
+Wednesday               11:00     12:00     01:00
+Thursday                11:00     12:00     01:00
+Friday                  11:00     12:00     01:00
+
+Total Hours: 05:00
+

@@ -1,0 +1,7 @@
+Surname|Perez
+Firstname|Erik
+Company|Kofax
+Host|Erik01
+DateOfVisit|2020/10/05
+CarParking|Yes
+CarReg|123-4567

@@ -1,0 +1,15 @@
+Time Sheet ID: 0000243
+Time Sheet For: rsolometo  submitted on 18-12-2018
+
+Week Commencing:
+21-12-2018
+
+Day                     Start     Finish    Hours
+Monday                  8:00     16:00     08:00
+Tuesday                 8:00     16:00     08:00
+Wednesday               8:00     16:00     08:00
+Thursday                8:00     16:00     08:00
+Friday                  8:00     16:00     08:00
+
+Total Hours: 40:00
+

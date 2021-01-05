@@ -1,0 +1,15 @@
+Time Sheet ID: 0000268
+Time Sheet For: vsouto  submitted on 28-03-2019
+
+Week Commencing:
+28-03-2019
+
+Day                     Start     Finish    Hours
+Monday                  8:00 am     3:00 pm     07:00
+Tuesday                 8:00 am     3:00 pm     07:00
+Wednesday               8:00 am     3:00 pm     07:00
+Thursday                8:00 am     3:00 pm     07:00
+Friday                  8:00 am     3:00 pm     07:00
+
+Total Hours: 35:00
+

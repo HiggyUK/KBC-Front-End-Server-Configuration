@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoStore NSI_SIG2="ABB976CAE0B5081BF5F814A015FB80C6C3542B5F923AA6C8C5665B0E90E2DD0CCE8113AC998D0C995E004761542981CD">
+	<Header Version="2" DateCreated="2019-06-19" TimeCreated="15:58:57" AUTHOR="" COMMENTS=""/>
+	<KnowledgeObjects ObjID="1947132398-55888-18775-166-227">
+		<KnowledgeObject ObjID="3367745511-18290-20450-164-89">
+			<KnowledgeFields>
+				<Field Name="CarReg" Value="Egs364"/>
+				<Field Name="Visiting" Value="10007     "/>
+				<Field Name="Company" Value="MIGHe"/>
+				<Field Name="Forename" Value="Icliff keen 1992"/>
+				<Field Name="Surname" Value="Mister"/>
+				<Field Name="Section" Value="Visitor Book"/>
+				<Field Name="UserFullName" Value="~WCC::User,%displayName%~"/>
+				<Field Name="UserHomeFolder" Value="~WCC::User,%homeDiretory%~"/>
+				<Field Name="UserEmail" Value="Nparillo@ssdvermont.com"/>
+				<Field Name="UserName" Value="Xodice"/>
+				<Field Name="JobID" Value="3367745511-18290-20450-164-89"/>
+				<Field Name="FormName" Value="Visitor Check In"/>
+				<Field Name="BadgeNumber" Value="BB819449-ECEA-4CC3-8D73-52DDFEA85A9A} {1F5EEC01-1214-4D94-80C5-4BDCD2014DDD} {C96401CC-0E17-11D3-885B-00C04F72C717} {00000000-0000-0000-0000-000000000000} {71E5B33E-1064-11D2-808F-0000F875A9CE} Authorization Manager Favorites Console Root SUwBAQEAAgAEACAA"/>
+			</KnowledgeFields>
+		</KnowledgeObject>
+	</KnowledgeObjects>
+</AutoStore>
